@@ -5,20 +5,20 @@
 </div>
 <br>
 
-> Food Delivery app made using MERN stack (UNDER DEVLOPEMENT) <br>
-> APP uses morden React and NodeJS features like Modules ,Skeletons , React Portals ,Redux thunk<br>
-> Followed MVC architecture and microservices for serever side
+> Food Delivery app made using MERN stack (UNDER DEVELOPMENT) <br>
+> APP uses modern React and NodeJS features like Modules, Skeletons, React Portals, Redux thunk<br>
+> Followed MVC architecture and microservices for server-side
 
 ## ⚙️ Detailed Functionality
 
 - Users have to authenticate themselves by Email
-- User can add carts items to cart
-- Users can update quantity delete the item
-- User can check the summry of ordre like items price ,delivery price and total
+- User can add cart items to the cart
+- Users can update quantity and delete the item
+- User can check the summary of order like items price,delivery price, and total
 - User can select COD or online (Razorpay) payment for order
-- After Placing order user will redirect to ordere details page and recives an email of order
-- User can view there old orders and profile
-- User can add , edit or delete address while checkout
+- After Placing the order user will be redirected to order details page and receives an email with the order
+- Users can view their old orders and profile
+- User can add, edit, or delete address while checkout
 
 ## 🚀 Tech and Tools Used
 
@@ -30,14 +30,4 @@
 
 ## Home Page
 
-<img src="./frontend/src/assests/mern-food-delivery-app.herokuapp.com_.png" width='800' height='auto'>
-<br>
-
-## Pizza Builder Page
-
-<img src="./custom-pizza.png" width='800' height='auto'>
-<br>
-
-### LINK :
-
-https://rio-ci4k.onrender.com/
+![image](https://github.com/Rufxz/Pizza-Delivery-Web-App/assets/100163753/0e387bd8-3904-408e-a045-4d3b27bb0087)
