@@ -19,9 +19,6 @@ const userSchema = new mongoose.Schema({
         default:false
     },
     mobNo:{
-
-    },
-    mobNo:{
      type:String
     }
 },{
