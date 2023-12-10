@@ -5,9 +5,6 @@
 </div>
 <br>
 
-> Food Delivery app made using MERN stack (UNDER DEVELOPMENT) <br>
-> APP uses modern React and NodeJS features like Modules, Skeletons, React Portals, Redux thunk<br>
-> Followed MVC architecture and microservices for server-side
 
 ## ⚙️ Detailed Functionality
 
